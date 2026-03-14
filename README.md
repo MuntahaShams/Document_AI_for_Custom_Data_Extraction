@@ -39,7 +39,7 @@ Example extracted fields include:
 
 Below is an example of the system extracting structured fields from a vehicle registration document.
 
-![Document AI Extraction Example](assets/doc_ai_example.png)
+![cover.png)
 
 The pipeline identifies relevant regions, extracts text, and maps the information into structured fields.
 
