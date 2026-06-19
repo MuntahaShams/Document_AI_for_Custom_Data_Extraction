@@ -82,15 +82,15 @@ Example output:
 
 ```json
 {
-  "license_plate": "ZH 569 737",
-  "owner_name": "Pena Fraga Andres",
-  "address": "Felsenkellerstrasse 23, 8636 Wald ZH",
-  "vehicle_type": "Leichter Motorwagen",
-  "vehicle_model": "FIAT LMC Liberty A 561 G",
-  "vin": "ZFA 250 000 0103 0868",
-  "birth_date": "1986-12-12",
-  "insurance": "Zurich",
-  "vehicle_color": "weiss / grau"
+  "license_plate": "XX 000 000",
+  "owner_name": "Max Mustermann",
+  "address": "Musterstrasse 123, 9999 Beispielstadt",
+  "vehicle_type": "Musterfahrzeug",
+  "vehicle_model": "Sample Car 1.0",
+  "vin": "VIN-DEMO-PLACEHOLDER",
+  "birth_date": "1990-01-01",
+  "insurance": "Demo Versicherung Muster AG",
+  "vehicle_color": "Musterblau"
 }
 ```
 
